@@ -1,0 +1,12 @@
+rotate -45
+MOVE 30
+FG 1
+Pattern $
+Draw 10
+FG 9
+Rotate 90
+draw 10
+rotate 90
+dRaw 10
+ROTATE 90
+DRAW 10
