@@ -27,6 +27,6 @@ To run the code in C, first we need to get the environment.
 #### ii) Install C compiler:
 
 ```shell
-$ apt update
-$ apt install build-essential
+$ sudo apt update
+$ sudo apt install build-essential
 ```
