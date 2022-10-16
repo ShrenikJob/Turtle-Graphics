@@ -24,9 +24,33 @@ To run the code in C, first we need to get the environment.
 
 #### i) Git clone the repository:
 
-#### ii) Install C compiler:
+#### ii) Install the C compiler:
 
 ```shell
 $ sudo apt update
 $ sudo apt install build-essential
 ```
+
+#### iii) Now to run the code:
+
+- There are two types of files: TurtleGraphics and TurtleGraphicsSimple.
+- TurtleGraphics has colour whereas the TurtleGraphicsSimple does not have colour.
+
+**To Run TurtleGraphics:**
+
+```shell
+$ make TurtleGraphics
+$ ./TurtleGraphics charizard.txt
+$ ./TurtleGraphics diamond.txt
+```
+**To Run TurtleGraphicsSimple:**
+
+```shell
+$ make TurtleGraphicsSimple
+$ ./TurtleGraphicsSimple charizard.txt
+$ ./TurtleGraphicsSimple diamond.txt
+```
+
+#We are done!!
+
+
