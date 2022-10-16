@@ -22,4 +22,11 @@ To run the code in C, first we need to get the environment.
 
 ## Follow the steps to get started:
 
+#### i) Git clone the repository:
 
+#### ii) Install C compiler:
+
+```shell
+$ apt update
+$ apt install build-essential
+```
