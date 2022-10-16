@@ -1,6 +1,9 @@
 # Turtle Graphics for Terminal
 Program that draws out images on the terminal from commands such as: Draw, move, rotate, background colour, etc; which is written on a text (.txt) file.
 
+![DiamondCommand](https://user-images.githubusercontent.com/48969261/196026255-93e14e9b-7d0c-4bac-bcc2-05cefed017c5.PNG)
+
+
 **I have made it very easy to follow here with simple words and easy steps!**
 
 # 1) Description of Project
