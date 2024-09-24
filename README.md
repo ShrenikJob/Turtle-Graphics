@@ -54,6 +54,6 @@ $ ./TurtleGraphicsSimple charizard.txt
 $ ./TurtleGraphicsSimple diamond.txt
 ```
 
-# We are done!!
+# Thank you
 
 
